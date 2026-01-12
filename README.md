@@ -1,8 +1,5 @@
 ## Hi there 👋
 Welcome to my GitHub page, here'll you'll find guided and personal projects I work through as I explore development.
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/5836593e-7f8a-477c-bad9-c7dc849878f6/thumbnail" >
-</p>
 <!--
 **YoranSnaaijer/YoranSnaaijer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
